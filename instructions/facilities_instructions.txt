@@ -1,0 +1,1 @@
+Search your computer for the name and location of the spreadsheet of facilities and the options you wish to use for the run of each facility. The file must be an MS Excel file.

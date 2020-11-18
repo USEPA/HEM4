@@ -1,0 +1,1 @@
+Browse your computer to find and select the Microsoft Excel file containing additional user-defined receptors to be modeled during the run.

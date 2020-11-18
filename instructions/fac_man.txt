@@ -1,0 +1,1 @@
+Enter the name and location of the Microsoft Excel file containing the list of facilities to be modeled and modeling options. See User’s Guide for file requirements and guidelines.

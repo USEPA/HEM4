@@ -1,0 +1,1 @@
+Enter the name and location of the Microsoft Excel file describing the seasonal stage of monthly vegetation surrounding facilities, for which you wish to model dry vapor deposition or depletion.

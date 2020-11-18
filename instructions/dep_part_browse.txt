@@ -1,0 +1,1 @@
+Browse your computer to find and select the Microsoft Excel file containing the particle size distribution of emissions from each source, for which you wish to model particle deposition or depletion using Method 1.

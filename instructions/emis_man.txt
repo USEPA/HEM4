@@ -1,0 +1,1 @@
+Enter the name and location of the Microsoft Excel file containing the parameters (precise location, configuration, dimensions) of each emission source, at each facility to be modeled. See User's Guide for file requirements and guidelines.

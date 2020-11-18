@@ -1,0 +1,22 @@
+.idea
+.gitignore
+aermod
+output
+kml_source_loc.txt
+Inputs
+/outputs
+/test/output
+Admin
+census
+Documentation
+MetData
+sample files
+venv
+working
+working_kml
+build
+dist
+save
+com/sca/hem4/HEM$_UserConc_2.py
+*.pyc
+**/_pychache_/*.pyc

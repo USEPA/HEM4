@@ -1,0 +1,1 @@
+Select a chronic kmz file to open and view in Google Earth, or select an Acute Map html file to open and view on a satellite street map. Note: To view an Acute Map, you must first run the Acute Impacts report from the Summarize Risks screen.

@@ -1,0 +1,1 @@
+Browse your computer to find and select the Microsoft Excel file containing temporal or wind speed factors to be applied to the emissions from specified facilities and sources.

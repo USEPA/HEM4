@@ -1,0 +1,15 @@
+python==3.6.5
+pandas==0.23.0
+numpy==1.14.3
+fastkml==0.11
+lxml==4.2.5
+pygeoif==0.7
+xlsxwriter==1.1.2
+openpyxl==2.5.3
+ttkthemes==2.3.0
+Fiona==1.8.11
+GDAL==3.0.2
+Rtree==0.8.3
+Shapely==1.6.4
+geopandas==0.4.1
+geopy==1.21.0

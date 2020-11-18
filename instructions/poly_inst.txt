@@ -1,0 +1,1 @@
+Enter the name and location of the Microsoft Excel file containing the polygon vertices for each polygon emission source, listed as Type I in your Emissions Location file.

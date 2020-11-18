@@ -1,0 +1,1 @@
+Select an Excel or CSV output file to open and analyze with spreadsheet tools.

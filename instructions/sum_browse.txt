@@ -1,0 +1,1 @@
+Select an entire output folder to open; then view and analyze the modeling results using mapping and graphical visualization and statistical tools. Note: You must first run the Risk Summary Reports before using these tools.

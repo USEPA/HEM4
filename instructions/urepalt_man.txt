@@ -1,0 +1,1 @@
+Enter the name and location of the CSV file containing alternate receptors to be modeled. See Users Guide for file requirements and guidelines.

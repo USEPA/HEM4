@@ -1,0 +1,1 @@
+Enter the name and location of the spreadsheet of buoyant line source parameters. The buoyant line source parameter file must be an MS Excel file. The combined length of the path and file name can not exceed 150 characters. If you enter a longer value, the file name will be truncated and HEM4 will not be able to locate the file when needed.

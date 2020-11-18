@@ -1,0 +1,1 @@
+https://anaconda.org/conda-forge/fastkml/0.11/download/noarch/fastkml-0.11-py_0.tar.bz2

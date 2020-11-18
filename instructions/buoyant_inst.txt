@@ -1,0 +1,1 @@
+Enter the name and location of the Microsoft Excel file containing the buoyant line source parameters for each facility containing a buoyant line emission source, listed as Type B in your Emissions Location file.
