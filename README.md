@@ -24,5 +24,7 @@ user-specific inputs and that the model produces reasonable and reliable predict
 public release. When assessing HEM-4 inputs and outputs the quality objective was to ensure that 
 HEM4 maintains or exceeds the functionality of HEM-3, faithfully generates and transfers the 
 inputs to AERMOD, and faithfully translates the AERMOD outputs into HEM4 concentration and risk 
-predictions. Documentation of this testing can be found in the HEM4 QA/QC Report [hypertext to doc on git] 
-and companion Testing Workbook [hypertext to doc on git] that includes detailed information on all testing performed.
+predictions. Documentation of this testing can be found in the HEM4 QA/QC Report 
+(download at https://github.com/USEPA/HEM4/raw/master/HEM4_QA-QC_Report_11-9-2020.pdf) 
+and companion Testing Workbook (download at https://github.com/USEPA/HEM4/raw/master/HEM4_Master_QA_Testing_Workbook_11-9-2020.xlsx)
+that includes detailed information on all testing performed.
