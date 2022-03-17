@@ -238,7 +238,7 @@ class HEM4dash():
                                     'lat': avglat
                                     },
                                 'zoom':3.5,
-                                'accesstoken':'pk.eyJ1IjoiYnJ1enp5IiwiYSI6ImNrOTE5YmwzdDBhMXYzbW8yMjY4aWJ3eHQifQ.5tNjnlK2Y8b-U1kvfPP8FA'
+                                'accesstoken':${{ secrets.ACCESS_TOKEN }}
                                 },
                                 
                             }
