@@ -1,5 +1,8 @@
 # HEM4
-The Human Exposure Model 4 (HEM4) Open Source Version 1.0 is a streamlined, but rigorous tool 
+
+Note: This HEM4 github repository contains the source code for HEM4.0. The source code for HEM4.1 is available at https://github.com/USEPA/HEM5 by clicking on v4.1 under Tags. The source code for HEM4.2 is available at https://github.com/USEPA/HEM5 by clicking on v4.2 under Tags.
+
+The Human Exposure Model 4 (HEM4) Open Source Version 1.0 (HEM4.0) is a streamlined, but rigorous tool 
 you can use for estimating ambient concentrations, human exposures and health risks that may 
 result from air pollution emissions from complex industrial facilities. HEM4 can be used to 
 model impacts from a single facility or from multiple facilities located across the entire 
@@ -27,4 +30,5 @@ inputs to AERMOD, and faithfully translates the AERMOD outputs into HEM4 concent
 predictions. Documentation of this testing can be found in the HEM4 QA/QC Report 
 (download at https://github.com/USEPA/HEM4/raw/master/HEM4_QA-QC_Report_11-9-2020.pdf) 
 and companion Testing Workbook (download at https://github.com/USEPA/HEM4/raw/master/HEM4_Master_QA_Testing_Workbook_11-9-2020.xlsx)
+
 that includes detailed information on all testing performed.
